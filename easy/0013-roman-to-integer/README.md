@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=700&lines=Roman+To+Integer+Converter;Java+DSA+Practice;Clean+Algorithm+Solution"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=700&lines=Roman+To+Integer+Converter;Java+DSA+Practice;Clean+Algorithm+Solution"/>🚀
 </p>
 
-<h1 align="center">Roman To Integer Converter 🚀</h1>
+
 
 <p align="center">
   <b>Java Implementation | Algorithm Practice | Clean Logic</b>

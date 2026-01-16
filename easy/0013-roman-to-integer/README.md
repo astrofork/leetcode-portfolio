@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/astrofork/your-repo/main/banner.png" width="900"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=700&lines=Roman+To+Integer+Converter;Java+DSA+Practice;Clean+Algorithm+Solution"/>
 </p>
 
 <h1 align="center">Roman To Integer Converter 🚀</h1>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=700&lines=Roman+To+Integer+Converter;Java+DSA+Practice;Clean+Algorithm+Solution"/>🚀
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=700&lines=Roman+To+Integer+Converter;Java+DSA+Practice;Clean+Algorithm+Solution"/>
 </p>
 
 

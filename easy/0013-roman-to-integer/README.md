@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/astrofork/your-repo/main/banner.png" width="900"/>
 </p>
 
 <h1 align="center">Roman To Integer Converter 🚀</h1>
